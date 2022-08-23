@@ -38,7 +38,6 @@ html {
 }
 
 body {
-    position: relative;
     background-color: var(--Dark-cyan);
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
     background-position: -50% 170%, 130% -140%;
